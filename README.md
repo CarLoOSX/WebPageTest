@@ -6,7 +6,7 @@ Crear un script con WebPageTest para probar el rendimiento de la búsqueda.
 * Hacer búsqueda en el selector de origen y destino sin usar el autocomplete
 
 ### Uso de la Herramienta 
-####Nos dirigmos a:
+#### Nos dirigmos a:
 ```
 https://www.webpagetest.org
 ```
